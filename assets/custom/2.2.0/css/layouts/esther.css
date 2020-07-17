@@ -1,0 +1,72 @@
+/* Colors */
+#esther h1 {
+    font-size: 32px; }
+#esther #details i::before {
+    color: #e74c3c; }
+#esther #top-navigation .ident .vc-photo {
+    min-height: 700px; }
+#esther #top-navigation .menuitem a i {
+    padding-top: 26px; }
+#esther #top-navigation .menuitem a i:before {
+    font-size: 25px; }
+#esther #top-navigation .menuitem a span {
+    font-size: 13px; }
+#esther .owl-carousel .item .feat-post {
+    position: absolute; }
+#esther .owl-carousel .item .feat-post .feat-wrapper {
+    position: relative;
+    left: -50%;
+    background: transparent;
+    padding: 24px; }
+#esther .owl-carousel .item .feat-post .feat-wrapper .feat-metas {
+    background: transparent;
+    padding: 32px;
+    font-size: 12px;
+    color: #676767;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -ms-transition: all 0.35s ease-in-out; }
+#esther .owl-carousel .item .feat-post.right {
+    left: 80%;
+    top: 32%;}
+#esther .owl-carousel .item .feat-post.right2 {
+    left: 70%;
+    top: 32%;}
+#esther .owl-carousel .item .feat-post.left {
+    left: 23%;
+    top: 32%; }
+#esther #details i::before {
+    margin-left: 0; }
+
+/* Timeline */
+.timeline-esther-01,
+.timeline-esther-02,
+.timeline-esther-03,
+.timeline-esther-04 {
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out; }
+
+.timeline-esther-01 {
+    background: url("../../images/layouts/esther/timeline/199351.jpg");
+    background-position: center;
+    background-size: cover; }
+
+.timeline-esther-02 {
+    background: url("../../images/layouts/esther/timeline/app.png");
+    background-position: center;
+    background-size: cover; }
+
+.timeline-esther-03 {
+    background: url("../../images/layouts/esther/timeline/job.jpg");
+    background-position: center;
+    background-size: cover; }
+
+.timeline-esther-04 {
+    background: url("../../images/layouts/esther/timeline/easy3D.jpg");
+    background-position: center;
+    background-size: cover; }
+
+/*# sourceMappingURL=esther.css.map */
